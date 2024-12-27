@@ -1,2 +1,6 @@
-# Chowders-son.github.io
-Personal Website
+To do:
+
+make about me row responsive to phone
+center carousel
+
+
